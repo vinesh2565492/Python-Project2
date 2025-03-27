@@ -26,3 +26,10 @@ class Ticket():
 
 class Account():
     # Manages user authentication
+
+## Key Functions:
+ 1.book_tickets(): Handles seat allocation and PNR generation
+
+ 2.display_info(): Shows train/ticket details
+
+3.check_password(): Secure authentication
