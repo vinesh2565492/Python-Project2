@@ -1,17 +1,19 @@
 # Python-Project2
-Using python programming language to complete the Railway Ticket Booking project.
-# Railway Reservation System 🚆
+Using Core concepts of python like oops concepts,functions and Error exception handling topics to complete the Railway Ticket Booking project.
+# Railway Reservation System 
 
 A Python-based command-line application for booking train tickets with passenger management and PNR generation.
 
-## Features ✨
+## Features :
 - **User Authentication**: Secure login system
 - **Train Database**: Multiple trains with seat availability
 - **Ticket Booking**: Real-time seat allocation
 - **PNR Generation**: Unique 6-digit PNR for each ticket
 - **Passenger Management**: Store passenger details securely
 
-## Code Structure 📂
+##IDE Platform:
+    VS Code.
+## Code Structure :
 ```python
 class Train():
     # Handles train data and ticket booking logic
